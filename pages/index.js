@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Banner from '../components/Banner'
 import Reasons from '../components/Reasons'
+import Experiences from '../components/Experiences'
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
     </Head>
     <Banner/>
     <Reasons/>
+    <Experiences/>
     </>
   )
 }
