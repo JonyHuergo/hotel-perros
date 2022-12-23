@@ -1,6 +1,6 @@
 const Reasons = () => {
     return (
-        <section>
+        <section className="reasons">
             <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, veritatis.</h2>
             <article>
                 <h3>Lorem ipsum dolor sit.</h3>
